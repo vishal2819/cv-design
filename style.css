@@ -1,0 +1,91 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+    
+}
+.container{
+    content: 70%;
+    background-color:lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+}
+.icon{
+    font-size: 70px;
+    margin-left: 30px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.margin-left-30{
+margin-left: 35px;
+}
+table{
+    width: 100%;
+    border-bottom: 2px solid black;
+    border-spacing: 5px;
+   
+}
+.no-border{
+    border-bottom: none;
+}
+td{
+    padding: .7rem;
+}
+.name{
+    font-size: 60px;
+    font-weight: bold;
+}
+.border-right{
+    border-right: 2px solid black;
+}
+.pad-bottom{
+    padding-bottom: 20px;
+}
+.pad-top{
+padding-top: 20px;
+}
+.pad-left-30{
+    padding-left: 30px;
+}
+.disp-flex{
+    display: flex;
+}
+.justify-cont-space-around{
+    justify-content: space-around;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.third-section{
+     border-bottom: 2px solid black;
+     width: 100%;
+}
+.bi-three-dots{
+    font-size: 25px;
+    padding-left: 1rem;
+}
+.first-column{
+    padding-right: 50px;
+}
+.second-column{
+    padding-right: 300px;
+}
+.year{
+    padding-right: 50px;
+}
+.big-icon{
+    font-size: 50px;
+    color: black;
+    background-color: lightcoral;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+
+
+
