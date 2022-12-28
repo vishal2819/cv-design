@@ -10,7 +10,7 @@ body{
 }
 .container{
     content: 70%;
-    background-color:lightcoral;
+   background-color:rgb(238, 155, 155);
     font-family: 'Times New Roman', Times, serif;
 }
 .icon{
